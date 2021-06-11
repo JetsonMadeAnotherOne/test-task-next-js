@@ -3,3 +3,4 @@ module.exports = async (req, res) => {
     const data = await response.json();
     res.json(data);
 };
+export default module;
