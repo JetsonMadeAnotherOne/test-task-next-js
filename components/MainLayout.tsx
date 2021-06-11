@@ -10,7 +10,6 @@ export function MainLayout({ children, title = 'Test Task' }) {
           <link rel="preconnect" href="https://fonts.gstatic.com"/>
           <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
           <meta name="keywords" content="next,javascript,nextjs,react"/>
-          <meta name="description" content="this is youtube tutorial for next"/>
           <meta charSet="utf-8"/>
       </Head>
       <div className={'header'}>
